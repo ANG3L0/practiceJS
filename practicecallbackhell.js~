@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+//callback hell
+
+var request = require('request');
