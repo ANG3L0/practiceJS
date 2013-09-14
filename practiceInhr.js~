@@ -1,0 +1,7 @@
+//Inheritance example
+
+//Item - sku, price
+//Book -title, text, search
+//Furniture -name, width, length
+
+
